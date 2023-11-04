@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 
 #EXTINF:-1, tvg-id="VTV1-VTV" tvg-logo="https://imgur.com/niHBkS0.png" tvg-name="VTV1 HD"  group-title="VTV",VTV1 HD
 http://antm.dynu.net:14285/rtp/232.84.1.117:10254
