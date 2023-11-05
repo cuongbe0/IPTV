@@ -1,0 +1,1399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="801">
+    <display-name lang="vi">801</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="802">
+    <display-name lang="vi">802</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ABC Autrailia (A+)">
+    <display-name lang="vi">ABC Autrailia (A+)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AFC HD">
+    <display-name lang="vi">AFC HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ahiii">
+    <display-name lang="vi">ahiii</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AlagonChannel">
+    <display-name lang="vi">AlagonChannel</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AnGiangTV (ATV)">
+    <display-name lang="vi">AnGiangTV (ATV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="vi">Animal Planet</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Animal Plannet (HD)">
+    <display-name lang="vi">Animal Plannet (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="vi">Animax</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Animax (HD)">
+    <display-name lang="vi">Animax (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ANTV">
+    <display-name lang="vi">ANTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Arirang">
+    <display-name lang="vi">Arirang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Asian Food Network (HD)">
+    <display-name lang="vi">Asian Food Network (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="vi">AXN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AXN (HD)">
+    <display-name lang="vi">AXN (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AZShop">
+    <display-name lang="vi">AZShop</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_Bloomberg">
+    <display-name lang="vi">B2B_Bloomberg</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_Cartoon Network">
+    <display-name lang="vi">B2B_Cartoon Network</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_Discovery HD">
+    <display-name lang="vi">B2B_Discovery HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_Fox Sport">
+    <display-name lang="vi">B2B_Fox Sport</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_FTV(HD)">
+    <display-name lang="vi">B2B_FTV(HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_HBO">
+    <display-name lang="vi">B2B_HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="B2B_Max by HBO">
+    <display-name lang="vi">B2B_Max by HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="vi">Baby TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Baby TV (HD)">
+    <display-name lang="vi">Baby TV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BabyFirst">
+    <display-name lang="vi">BabyFirst</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bắc Ninh">
+    <display-name lang="vi">Bắc Ninh</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BacGiangTV (BGTV)">
+    <display-name lang="vi">BacGiangTV (BGTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BacKanTV (TBK)">
+    <display-name lang="vi">BacKanTV (TBK)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BacLieuTV (BTV)">
+    <display-name lang="vi">BacLieuTV (BTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BacNinhTV (BTV) (HD)">
+    <display-name lang="vi">BacNinhTV (BTV) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BanyanTree">
+    <display-name lang="vi">BanyanTree</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="vi">BBC Earth</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BBC LifeStyle">
+    <display-name lang="vi">BBC LifeStyle</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="vi">BBC World News</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BBC_LifeStyle">
+    <display-name lang="vi">BBC_LifeStyle</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BBCWorld">
+    <display-name lang="vi">BBCWorld</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BenTreTV (THBT)">
+    <display-name lang="vi">BenTreTV (THBT)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bình Dương 1">
+    <display-name lang="vi">Bình Dương 1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bình Dương 4">
+    <display-name lang="vi">Bình Dương 4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDinhTV (BTV)">
+    <display-name lang="vi">BinhDinhTV (BTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDuongTV1 (BTV1) (HD)">
+    <display-name lang="vi">BinhDuongTV1 (BTV1) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDuongTV2 (BTV2)">
+    <display-name lang="vi">BinhDuongTV2 (BTV2)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhDuongTV4 (BTV4) (HD)">
+    <display-name lang="vi">BinhDuongTV4 (BTV4) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhPhuocTV (BPTV)">
+    <display-name lang="vi">BinhPhuocTV (BPTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhThuan (BTV6) - Home Shopping">
+    <display-name lang="vi">BinhThuan (BTV6) - Home Shopping</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BinhThuanTV (BTV)">
+    <display-name lang="vi">BinhThuanTV (BTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="vi">Bloomberg</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bloomberg (HD)">
+    <display-name lang="vi">Bloomberg (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Bóng Đá TV - VTVLivecab16">
+    <display-name lang="vi">Bóng Đá TV - VTVLivecab16</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="vi">Boomerang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Boomerang (HD)">
+    <display-name lang="vi">Boomerang (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="BTV9 - An Viên (HD)">
+    <display-name lang="vi">BTV9 - An Viên (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CaMauTV (CTV1)">
+    <display-name lang="vi">CaMauTV (CTV1)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Camera Demo">
+    <display-name lang="vi">Camera Demo</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CAND">
+    <display-name lang="vi">CAND</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CanThoTV (THTPCT)">
+    <display-name lang="vi">CanThoTV (THTPCT)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CaoBangTV (CRTV)">
+    <display-name lang="vi">CaoBangTV (CRTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="vi">Cartoon Network</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="vi">Cartoon Network HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cbeebies">
+    <display-name lang="vi">Cbeebies</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CCTV - HD">
+    <display-name lang="vi">CCTV - HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CCTV_SD">
+    <display-name lang="vi">CCTV_SD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CCTV2">
+    <display-name lang="vi">CCTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Ceeshow">
+    <display-name lang="vi">Ceeshow</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel News Asia (HD)">
+    <display-name lang="vi">Channel News Asia (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel NewsAsia (HD)">
+    <display-name lang="vi">Channel NewsAsia (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel V">
+    <display-name lang="vi">Channel V</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Channel V (HD)">
+    <display-name lang="vi">Channel V (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cinemaworld">
+    <display-name lang="vi">Cinemaworld</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CinemaWorld (HD)">
+    <display-name lang="vi">CinemaWorld (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CinemaWorld (SD)">
+    <display-name lang="vi">CinemaWorld (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Cinemax (HD)">
+    <display-name lang="vi">Cinemax (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Clubbing">
+    <display-name lang="vi">Clubbing</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="vi">CNBC</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="vi">CNN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CNN (HD)">
+    <display-name lang="vi">CNN (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DakLakTV (DRT)">
+    <display-name lang="vi">DakLakTV (DRT)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DakNongTV (PTD)">
+    <display-name lang="vi">DakNongTV (PTD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DaNangTV1">
+    <display-name lang="vi">DaNangTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DaNangTV1 (DRT1)">
+    <display-name lang="vi">DaNangTV1 (DRT1)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DaNangTV2 (DRT2)">
+    <display-name lang="vi">DaNangTV2 (DRT2)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DaVinci">
+    <display-name lang="vi">DaVinci</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DaVinci (HD)">
+    <display-name lang="vi">DaVinci (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DienBienTV (ĐTV)">
+    <display-name lang="vi">DienBienTV (ĐTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="vi">Discovery</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery Asia">
+    <display-name lang="vi">Discovery Asia</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Discovery(HD)">
+    <display-name lang="vi">Discovery(HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Disney">
+    <display-name lang="vi">Disney</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Disney (HD)">
+    <display-name lang="vi">Disney (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="vi">Disney Junior</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DN9 - AZshop">
+    <display-name lang="vi">DN9 - AZshop</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DN9/SkyShop">
+    <display-name lang="vi">DN9/SkyShop</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongNaiTV1 (DN1) (HD)">
+    <display-name lang="vi">DongNaiTV1 (DN1) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongNaiTV2 (DN2)">
+    <display-name lang="vi">DongNaiTV2 (DN2)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongNaiTV9">
+    <display-name lang="vi">DongNaiTV9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DongThapTV (THDL)">
+    <display-name lang="vi">DongThapTV (THDL)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="vi">DW</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DW (HD)">
+    <display-name lang="vi">DW (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DW_B2B">
+    <display-name lang="vi">DW_B2B</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FashionTV">
+    <display-name lang="vi">FashionTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FashionTV (HD)">
+    <display-name lang="vi">FashionTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="vi">FOX</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox (HD)">
+    <display-name lang="vi">Fox (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox Family Movies">
+    <display-name lang="vi">Fox Family Movies</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox Family Movies (HD)">
+    <display-name lang="vi">Fox Family Movies (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX Life (HD)">
+    <display-name lang="vi">FOX Life (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX Life (SD)">
+    <display-name lang="vi">FOX Life (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX MOVIES (HD)">
+    <display-name lang="vi">FOX MOVIES (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX MOVIES (SD)">
+    <display-name lang="vi">FOX MOVIES (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox Sport 2">
+    <display-name lang="vi">Fox Sport 2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX Sport-3">
+    <display-name lang="vi">FOX Sport-3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="vi">Fox Sports</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox Sports (HD)">
+    <display-name lang="vi">Fox Sports (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Fox Sports 2 (HD)">
+    <display-name lang="vi">Fox Sports 2 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="France24">
+    <display-name lang="vi">France24</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="GEM HD">
+    <display-name lang="vi">GEM HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="GiaLaiTV (THGL)">
+    <display-name lang="vi">GiaLaiTV (THGL)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Hà Nội 1">
+    <display-name lang="vi">Hà Nội 1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Hà Nội 2">
+    <display-name lang="vi">Hà Nội 2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaGiangTV (HGTV)">
+    <display-name lang="vi">HaGiangTV (HGTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Hải Phòng TV">
+    <display-name lang="vi">Hải Phòng TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaiDuongTV (HDTV)">
+    <display-name lang="vi">HaiDuongTV (HDTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaiPhongTV (THP) (HD)">
+    <display-name lang="vi">HaiPhongTV (THP) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaNamTV (HaNam)">
+    <display-name lang="vi">HaNamTV (HaNam)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Hanoicab5">
+    <display-name lang="vi">Hanoicab5</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaNoiTV1 (HD)">
+    <display-name lang="vi">HaNoiTV1 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaNoiTV2 (HD)">
+    <display-name lang="vi">HaNoiTV2 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaTinhTV (HTTV)">
+    <display-name lang="vi">HaTinhTV (HTTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HaTinhTV (HTTV) (HD)">
+    <display-name lang="vi">HaTinhTV (HTTV) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HauGiangTV (HGV)">
+    <display-name lang="vi">HauGiangTV (HGV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="vi">HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO (HD)">
+    <display-name lang="vi">HBO (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HCaTV">
+    <display-name lang="vi">HCaTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HCaTV - Thong tin KT-VH-XH Ha Noi">
+    <display-name lang="vi">HCaTV - Thong tin KT-VH-XH Ha Noi</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HCaTV2">
+    <display-name lang="vi">HCaTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HiTV">
+    <display-name lang="vi">HiTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HoaBinhTV (HBTV)">
+    <display-name lang="vi">HoaBinhTV (HBTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Hotel Information_Lemont">
+    <display-name lang="vi">Hotel Information_Lemont</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV Thể thao">
+    <display-name lang="vi">HTV Thể thao</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV1">
+    <display-name lang="vi">HTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV2 (HD)">
+    <display-name lang="vi">HTV2 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV2(HD)">
+    <display-name lang="vi">HTV2(HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV3">
+    <display-name lang="vi">HTV3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV3 (SD)">
+    <display-name lang="vi">HTV3 (SD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV4">
+    <display-name lang="vi">HTV4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV7">
+    <display-name lang="vi">HTV7</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV7 (HD)">
+    <display-name lang="vi">HTV7 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV9">
+    <display-name lang="vi">HTV9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTV9 (HD)">
+    <display-name lang="vi">HTV9 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Ca Nhạc">
+    <display-name lang="vi">HTVC Ca Nhạc</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Du Lịch Cuộc Sống">
+    <display-name lang="vi">HTVC Du Lịch Cuộc Sống</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Gia Đình">
+    <display-name lang="vi">HTVC Gia Đình</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Phim (HD)">
+    <display-name lang="vi">HTVC Phim (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Phụ nữ">
+    <display-name lang="vi">HTVC Phụ nữ</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HTVC Thuần Việt (HD)">
+    <display-name lang="vi">HTVC Thuần Việt (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HueTV1 (TRT1)">
+    <display-name lang="vi">HueTV1 (TRT1)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HungYenTV (HY)">
+    <display-name lang="vi">HungYenTV (HY)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HungYenTV (HY) (HD)">
+    <display-name lang="vi">HungYenTV (HY) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+1">
+    <display-name lang="vi">K+1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+1 (HD)">
+    <display-name lang="vi">K+1 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+NS">
+    <display-name lang="vi">K+NS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+NS (HD)">
+    <display-name lang="vi">K+NS (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+PC">
+    <display-name lang="vi">K+PC</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+PC (HD)">
+    <display-name lang="vi">K+PC (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+PM">
+    <display-name lang="vi">K+PM</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="K+PM (HD)">
+    <display-name lang="vi">K+PM (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="KBS World">
+    <display-name lang="vi">KBS World</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="kênh">
+    <display-name lang="vi">kênh</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Kênh MyTV">
+    <display-name lang="vi">Kênh MyTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="KhanhHoaTV (KTV)">
+    <display-name lang="vi">KhanhHoaTV (KTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Kiên Giang">
+    <display-name lang="vi">Kiên Giang</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="KienGiangTV (KTV) (HD)">
+    <display-name lang="vi">KienGiangTV (KTV) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="KonTumTV (KRT)">
+    <display-name lang="vi">KonTumTV (KRT)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="LaiChauTV (LTV)">
+    <display-name lang="vi">LaiChauTV (LTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="LamDongTV (LDTV)">
+    <display-name lang="vi">LamDongTV (LDTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Lạng Sơn TV2">
+    <display-name lang="vi">Lạng Sơn TV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="LangSonTV1 (LSTV1)">
+    <display-name lang="vi">LangSonTV1 (LSTV1)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="LaoCaiTV (THLC)">
+    <display-name lang="vi">LaoCaiTV (THLC)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Livestream">
+    <display-name lang="vi">Livestream</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Livestream2">
+    <display-name lang="vi">Livestream2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="LongAnTV (LA34)">
+    <display-name lang="vi">LongAnTV (LA34)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Max by HBO">
+    <display-name lang="vi">Max by HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Melia Ba Vi Mountain Retreat">
+    <display-name lang="vi">Melia Ba Vi Mountain Retreat</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Mosaic1">
+    <display-name lang="vi">Mosaic1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Mosaic2">
+    <display-name lang="vi">Mosaic2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="vi">MTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MTV (HD)">
+    <display-name lang="vi">MTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NamDinhTV (NTV)">
+    <display-name lang="vi">NamDinhTV (NTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Nat Geo Wild - HD">
+    <display-name lang="vi">Nat Geo Wild - HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Nat Geo Wild (HD)">
+    <display-name lang="vi">Nat Geo Wild (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="National Geographic Chanel - NGC (HD)">
+    <display-name lang="vi">National Geographic Chanel - NGC (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="National Geographic SD - NGC">
+    <display-name lang="vi">National Geographic SD - NGC</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NGA">
+    <display-name lang="vi">NGA</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NGA - HD">
+    <display-name lang="vi">NGA - HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NgheAnTV (NTV)">
+    <display-name lang="vi">NgheAnTV (NTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NgheAnTV (NTV) (HD)">
+    <display-name lang="vi">NgheAnTV (NTV) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Nhân dân (HD)">
+    <display-name lang="vi">Nhân dân (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK World Japan">
+    <display-name lang="vi">NHK World Japan</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK World Japan (HD)">
+    <display-name lang="vi">NHK World Japan (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NHK_Premium">
+    <display-name lang="vi">NHK_Premium</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NinhBinhTV (NTB)">
+    <display-name lang="vi">NinhBinhTV (NTB)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NinhThuanTV (NTV)">
+    <display-name lang="vi">NinhThuanTV (NTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="OnSports+">
+    <display-name lang="vi">OnSports+</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="OPT1">
+    <display-name lang="vi">OPT1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Outdoor Channel (HD)">
+    <display-name lang="vi">Outdoor Channel (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="PhuThoTV (PTV)">
+    <display-name lang="vi">PhuThoTV (PTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="PhuThoTV (PTV) (HD)">
+    <display-name lang="vi">PhuThoTV (PTV) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="PhuYenTV (PTP)">
+    <display-name lang="vi">PhuYenTV (PTP)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QPVN">
+    <display-name lang="vi">QPVN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QPVN (HD)">
+    <display-name lang="vi">QPVN (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangBinhTV (QBTV)">
+    <display-name lang="vi">QuangBinhTV (QBTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNamTV (QRT)">
+    <display-name lang="vi">QuangNamTV (QRT)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNgaiTV (PTQ1)">
+    <display-name lang="vi">QuangNgaiTV (PTQ1)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNgaiTV (PTQ1) (HD)">
+    <display-name lang="vi">QuangNgaiTV (PTQ1) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNinhTV (QTV)">
+    <display-name lang="vi">QuangNinhTV (QTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNinhTV1 (QTV1 HD)">
+    <display-name lang="vi">QuangNinhTV1 (QTV1 HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangNinhTV3 (QTV3 HD)">
+    <display-name lang="vi">QuangNinhTV3 (QTV3 HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuangTriTV (QRTV)">
+    <display-name lang="vi">QuangTriTV (QRTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Quốc hội (HD)">
+    <display-name lang="vi">Quốc hội (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="QuocHoi">
+    <display-name lang="vi">QuocHoi</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Rai Italia">
+    <display-name lang="vi">Rai Italia</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Red by HBO">
+    <display-name lang="vi">Red by HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="RTRPlaneta">
+    <display-name lang="vi">RTRPlaneta</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="RussiaToday">
+    <display-name lang="vi">RussiaToday</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Screen Red">
+    <display-name lang="vi">Screen Red</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SCTV10 - Home Shopping">
+    <display-name lang="vi">SCTV10 - Home Shopping</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SCTV5 - SCj - Kênh  mua sắm">
+    <display-name lang="vi">SCTV5 - SCj - Kênh  mua sắm</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SocTrangTV (STV)">
+    <display-name lang="vi">SocTrangTV (STV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="SonLaTV (STV)">
+    <display-name lang="vi">SonLaTV (STV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TayNinhTV (TTV11)">
+    <display-name lang="vi">TayNinhTV (TTV11)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Test -Disney">
+    <display-name lang="vi">Test -Disney</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Test -HBO">
+    <display-name lang="vi">Test -HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Test -VTV6HD">
+    <display-name lang="vi">Test -VTV6HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Test-Cinemax">
+    <display-name lang="vi">Test-Cinemax</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Test-NGC-HD">
+    <display-name lang="vi">Test-NGC-HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Thái Nguyên">
+    <display-name lang="vi">Thái Nguyên</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Thái Nguyên TV1">
+    <display-name lang="vi">Thái Nguyên TV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ThaiBinhTV1 (TV1)">
+    <display-name lang="vi">ThaiBinhTV1 (TV1)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ThaiNguyenTV1 (TV1) (HD)">
+    <display-name lang="vi">ThaiNguyenTV1 (TV1) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ThaiNguyenTV2 (TV2)">
+    <display-name lang="vi">ThaiNguyenTV2 (TV2)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ThanhHoaTV (HD)">
+    <display-name lang="vi">ThanhHoaTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ThanhHoaTV (TTV) (HD)">
+    <display-name lang="vi">ThanhHoaTV (TTV) (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Thể Thao TV - VTVLivecab3">
+    <display-name lang="vi">Thể Thao TV - VTVLivecab3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="THHN_BacLieu">
+    <display-name lang="vi">THHN_BacLieu</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="THHN_LongAn">
+    <display-name lang="vi">THHN_LongAn</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TienGiang-THHN">
+    <display-name lang="vi">TienGiang-THHN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TienGiangTV (THTG)">
+    <display-name lang="vi">TienGiangTV (THTG)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Toonami">
+    <display-name lang="vi">Toonami</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Travel &amp; Living (HD)">
+    <display-name lang="vi">Travel &amp; Living (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Travel and Living">
+    <display-name lang="vi">Travel and Living</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TraVinhTV (THTV)">
+    <display-name lang="vi">TraVinhTV (THTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Trực Tuyến">
+    <display-name lang="vi">Trực Tuyến</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Truesport 4">
+    <display-name lang="vi">Truesport 4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TuyenQuangTV (TTV)">
+    <display-name lang="vi">TuyenQuangTV (TTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="vi">TV5 MONDE</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="TVM">
+    <display-name lang="vi">TVM</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VGS Shop">
+    <display-name lang="vi">VGS Shop</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Vĩnh Long 1">
+    <display-name lang="vi">Vĩnh Long 1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Vĩnh Long 2">
+    <display-name lang="vi">Vĩnh Long 2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhLongTV1 (THVL1) HD">
+    <display-name lang="vi">VinhLongTV1 (THVL1) HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhLongTV2 (THVL2) HD">
+    <display-name lang="vi">VinhLongTV2 (THVL2) HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhLongTV3 (THVL3) HD">
+    <display-name lang="vi">VinhLongTV3 (THVL3) HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhLongTV4 (THVL4) HD">
+    <display-name lang="vi">VinhLongTV4 (THVL4) HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinhPhucTV (VP)">
+    <display-name lang="vi">VinhPhucTV (VP)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VinpearlHaLongResort">
+    <display-name lang="vi">VinpearlHaLongResort</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ViTV (SCTV8)">
+    <display-name lang="vi">ViTV (SCTV8)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VNews">
+    <display-name lang="vi">VNews</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VNEWS (HD)">
+    <display-name lang="vi">VNEWS (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VOV1 (Radio)">
+    <display-name lang="vi">VOV1 (Radio)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VOV2 (Radio)">
+    <display-name lang="vi">VOV2 (Radio)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VOV3 (Radio)">
+    <display-name lang="vi">VOV3 (Radio)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VOVGT (Radio)">
+    <display-name lang="vi">VOVGT (Radio)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VOVTV">
+    <display-name lang="vi">VOVTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC1">
+    <display-name lang="vi">VTC1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC1 (HD)">
+    <display-name lang="vi">VTC1 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC10">
+    <display-name lang="vi">VTC10</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC11">
+    <display-name lang="vi">VTC11</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC12">
+    <display-name lang="vi">VTC12</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC12 - Home Shopping">
+    <display-name lang="vi">VTC12 - Home Shopping</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC13 - iTV">
+    <display-name lang="vi">VTC13 - iTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC13 (HD)">
+    <display-name lang="vi">VTC13 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC14">
+    <display-name lang="vi">VTC14</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC16">
+    <display-name lang="vi">VTC16</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC2">
+    <display-name lang="vi">VTC2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC2 HD">
+    <display-name lang="vi">VTC2 HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC3">
+    <display-name lang="vi">VTC3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC3 (HD)">
+    <display-name lang="vi">VTC3 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC3 Giải Trí HD">
+    <display-name lang="vi">VTC3 Giải Trí HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC4">
+    <display-name lang="vi">VTC4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC4 (HD)">
+    <display-name lang="vi">VTC4 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC5">
+    <display-name lang="vi">VTC5</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC5 (HD)">
+    <display-name lang="vi">VTC5 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC6">
+    <display-name lang="vi">VTC6</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC7 - Today TV">
+    <display-name lang="vi">VTC7 - Today TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC7 (HD)">
+    <display-name lang="vi">VTC7 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC8">
+    <display-name lang="vi">VTC8</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC9">
+    <display-name lang="vi">VTC9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTC9 (HD)">
+    <display-name lang="vi">VTC9 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV">
+    <display-name lang="vi">VTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV Phú Yên">
+    <display-name lang="vi">VTV Phú Yên</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV_Huyndai">
+    <display-name lang="vi">VTV_Huyndai</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV1">
+    <display-name lang="vi">VTV1</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV1 (HD)">
+    <display-name lang="vi">VTV1 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV2">
+    <display-name lang="vi">VTV2</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV2 (HD)">
+    <display-name lang="vi">VTV2 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV3">
+    <display-name lang="vi">VTV3</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV3 (HD)">
+    <display-name lang="vi">VTV3 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV4">
+    <display-name lang="vi">VTV4</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV4 (HD)">
+    <display-name lang="vi">VTV4 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV5">
+    <display-name lang="vi">VTV5</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV5 (HD)">
+    <display-name lang="vi">VTV5 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV6">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV6 (HD)">
+    <display-name lang="vi">VTV6 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV7 (HD)">
+    <display-name lang="vi">VTV7 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV8">
+    <display-name lang="vi">VTV8</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV8 (HD)">
+    <display-name lang="vi">VTV8 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV9">
+    <display-name lang="vi">VTV9</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTV9 (HD)">
+    <display-name lang="vi">VTV9 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab 12 - Style TV">
+    <display-name lang="vi">VTVcab 12 - Style TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab 17 - Yeah1TV">
+    <display-name lang="vi">VTVcab 17 - Yeah1TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab 7 - Sức khỏe và Cuộc sống">
+    <display-name lang="vi">VTVcab 7 - Sức khỏe và Cuộc sống</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab1 - Giải Trí TV">
+    <display-name lang="vi">VTVcab1 - Giải Trí TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab10">
+    <display-name lang="vi">VTVcab10</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab11 (VGS Shop)">
+    <display-name lang="vi">VTVcab11 (VGS Shop)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab13 - VTV Huyndai">
+    <display-name lang="vi">VTVcab13 - VTV Huyndai</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab15 - M Channel">
+    <display-name lang="vi">VTVcab15 - M Channel</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab16 - Bóng đá TV">
+    <display-name lang="vi">VTVcab16 - Bóng đá TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab16 - Bóng đá TV (HD)">
+    <display-name lang="vi">VTVcab16 - Bóng đá TV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab18 - Thể thao Tin tức (HD)">
+    <display-name lang="vi">VTVcab18 - Thể thao Tin tức (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab19">
+    <display-name lang="vi">VTVcab19</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab2 - Phim Việt">
+    <display-name lang="vi">VTVcab2 - Phim Việt</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab20 - V.Family">
+    <display-name lang="vi">VTVcab20 - V.Family</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab22 - LifeTV">
+    <display-name lang="vi">VTVcab22 - LifeTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab23 -Thể thao Golf HD">
+    <display-name lang="vi">VTVcab23 -Thể thao Golf HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab3 - Thể Thao TV">
+    <display-name lang="vi">VTVcab3 - Thể Thao TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab3 - Thể Thao TV (HD)">
+    <display-name lang="vi">VTVcab3 - Thể Thao TV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab4 - Info TV">
+    <display-name lang="vi">VTVcab4 - Info TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab4 (HD)">
+    <display-name lang="vi">VTVcab4 (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab5 - E Channel">
+    <display-name lang="vi">VTVcab5 - E Channel</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab8 - BIBI">
+    <display-name lang="vi">VTVcab8 - BIBI</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VTVcab9 - InfoTV">
+    <display-name lang="vi">VTVcab9 - InfoTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VungTau_THHN">
+    <display-name lang="vi">VungTau_THHN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="VungTauTV (BRT)">
+    <display-name lang="vi">VungTauTV (BRT)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="Warner_TV">
+    <display-name lang="vi">Warner_TV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="WarnerTV (HD)">
+    <display-name lang="vi">WarnerTV (HD)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="YenBaiTV (YTV)">
+    <display-name lang="vi">YenBaiTV (YTV)</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ZeeTV">
+    <display-name lang="vi">ZeeTV</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+</tv>
