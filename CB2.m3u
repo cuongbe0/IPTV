@@ -123,45 +123,45 @@ http://antm.dynu.net:14285/rtp/232.84.1.32:8166
 http://antm.dynu.net:14285/rtp/232.84.3.199:11116
 
 #------------------------Địa phương (HD)------------------------#
-#EXTINF:-1 tvg-id="quangninh1" tvg-name="TH QUANG NINH 1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ndax4Qk.png",QTV1 HD_TH Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh1" tvg-name="TH QUANG NINH 1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ndax4Qk.png",Quảng Ninh 1
 http://antm.dynu.net:14285/rtp/232.84.1.248:10978
-#EXTINF:-1 tvg-id="quangninh3" tvg-name="TH QUANG NINH 3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YfdCLVn.png",QTV3 HD_TH Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh3" tvg-name="TH QUANG NINH 3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YfdCLVn.png",Quảng Ninh 3
 http://antm.dynu.net:14285/rtp/232.84.1.249:10984
-#EXTINF:-1 tvg-id="thainguyen" tvg-name="TH THAI NGUYEN 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vz36bdU.png",TN1 HD_TH Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" tvg-name="TH THAI NGUYEN 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vz36bdU.png",Thái Nguyên
 http://antm.dynu.net:14285/rtp/232.84.3.146:10774
-#EXTINF:-1 tvg-id="phutho" tvg-name="TH PHU THO" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6USaqW8.png",PTV HD_TH Phú Thọ
+#EXTINF:-1 tvg-id="phutho" tvg-name="TH PHU THO" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6USaqW8.png",Phú Thọ
 http://antm.dynu.net:14285/rtp/232.84.3.148:10792
-#EXTINF:-1 tvg-id="bacninh" tvg-name="TH BAC NINH" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TDNvY5D.png",BTV_TH Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" tvg-name="TH BAC NINH" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TDNvY5D.png",Bắc Ninh
 http://antm.dynu.net:14285/rtp/232.84.2.245:10506
-#EXTINF:-1 tvg-id="hanoi1" tvg-name="HANOITV 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2fHroPI.png",H1 HD_TH Hà Nội
+#EXTINF:-1 tvg-id="hanoi1" tvg-name="HANOITV 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2fHroPI.png",Hà Nội 1
 http://antm.dynu.net:14285/rtp/232.84.3.143:10738
-#EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOITV 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/u9iGlgm.png",H2 HD_TH Hà Nội
+#EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOITV 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/u9iGlgm.png",Hà Nội 2
 http://antm.dynu.net:14285/rtp/232.84.3.137:10744
-#EXTINF:-1 tvg-id="haiphong" tvg-name="TH HAI PHONG" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dSKTFhP.png",THP HD_TH Thành phố Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" tvg-name="TH HAI PHONG" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dSKTFhP.png",Hải Phòng
 http://antm.dynu.net:14285/rtp/232.84.3.142:10780
-#EXTINF:-1 tvg-id="hungyen" tvg-name="TH HUNG YEN" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/3d4eDDC.png",HY HD_TH Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" tvg-name="TH HUNG YEN" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/3d4eDDC.png",Hưng Yên
 http://antm.dynu.net:14285/rtp/232.84.3.110:10786
-#EXTINF:-1 tvg-id="nghean" tvg-name="TH NGHE AN" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6BIslNR.png",NTV HD_TH Nghệ An
+#EXTINF:-1 tvg-id="nghean" tvg-name="TH NGHE AN" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6BIslNR.png",Nghệ An
 http://antm.dynu.net:14285/rtp/232.84.2.198:10972
-#EXTINF:-1 tvg-id="hatinh" tvg-name="TH HA TINH" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/v4zGbnL.png",HTTV HD_TH Hà Tĩnh
+#EXTINF:-1 tvg-id="hatinh" tvg-name="TH HA TINH" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/v4zGbnL.png",Hà Tĩnh
 http://antm.dynu.net:14285/rtp/232.84.3.134:10768
-#EXTINF:-1 tvg-id="quangngai" tvg-name="TH QUANG NGAI" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/d8Cv42P.png",PTQ_TH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngai" tvg-name="TH QUANG NGAI" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/d8Cv42P.png",Quảng Ngãi
 http://antm.dynu.net:14285/rtp/232.84.3.126:10798
-#EXTINF:-1 tvg-id="binhduong1" tvg-name="TH BINH DUONG 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/MkJXKiZ.png",BTV1 HD_TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" tvg-name="TH BINH DUONG 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/MkJXKiZ.png", Bình Dương 1
 http://antm.dynu.net:14285/rtp/232.84.3.109:10750
-#EXTINF:-1 tvg-id="binhduong4" tvg-name="TH BINH DUONG 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/8Ftj4H3.png",BTV4 HD_TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong4" tvg-name="TH BINH DUONG 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/8Ftj4H3.png",Bình Dương 4
 http://antm.dynu.net:14285/rtp/232.84.2.156:10756
-#EXTINF:-1 tvg-id="dongnai1" tvg-name="TH DONG NAI 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/m0SBQVK.png",ĐNRTV1 HD_TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai1" tvg-name="TH DONG NAI 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/m0SBQVK.png",Đồng Nai 1
 http://antm.dynu.net:14285/rtp/232.84.3.112:10762
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w3M8LmD.png",THVL1 HD_TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w3M8LmD.png",Vĩnh Long 1
 http://antm.dynu.net:14285/rtp/232.84.3.152:10882
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/FHbIeDw.png",THVL2 HD_TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/FHbIeDw.png",Vĩnh Long 2
 http://antm.dynu.net:14285/rtp/232.84.3.164:10888
-#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hbAK3iJ.png",THVL3 HD_TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hbAK3iJ.png",Vĩnh Long 3
 http://antm.dynu.net:14285/rtp/232.84.3.165:10900
-#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/X8QyXHZ.png",THVL4 HD_TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/X8QyXHZ.png",Vĩnh Long 4
 http://antm.dynu.net:14285/rtp/232.84.3.160:10912
-#EXTINF:-1 tvg-id="kiengiang" tvg-name="TH KIEN GIANG 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5CPlsYv.png",KG_TH Kiên Giang
+#EXTINF:-1 tvg-id="kiengiang" tvg-name="TH KIEN GIANG 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5CPlsYv.png",Kiên Giang
 http://antm.dynu.net:14285/rtp/232.84.3.161:10918
 
 #------------------------Địa Phương (SD)------------------------#
