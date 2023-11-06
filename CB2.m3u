@@ -105,7 +105,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.170:8994
 #------------------------Thiết Yếu------------------------#
 #EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân TV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/20sj8kS.png",Nhân Dân TV
 http://antm.dynu.net:14285/rtp/232.84.3.124:10822
-#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI HD
+#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI
 http://antm.dynu.net:14285/rtp/232.84.2.181:10290
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
 http://antm.dynu.net:14285/rtp/232.84.3.127:10816
