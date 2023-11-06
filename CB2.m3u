@@ -119,7 +119,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.212:9246
 http://antm.dynu.net:14285/rtp/232.84.1.55:8310
 #EXTINF:-1 tvg-id="sctv8" group-title="Other Channel" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8 VITV
 http://antm.dynu.net:14285/rtp/232.84.1.32:8166
-#EXTINF:-1 tvg-id="btv9" tvg-name="BTV9 An Viên TV" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",BTV9 An Viên TV
+#EXTINF:-1 tvg-id="btv9" tvg-name="BTV9 An Viên TV" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",An Viên HD
 http://antm.dynu.net:14285/rtp/232.84.3.199:11116
 
 #------------------------Địa phương (HD)------------------------#
