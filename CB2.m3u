@@ -371,7 +371,7 @@ http://antm.dynu.net:14285/rtp/@232.84.3.214:11206
 http://antm.dynu.net:14285/rtp/232.84.1.48:8268
 #EXTINF:-1 tvg-id="arirang" tvg-name="Arirang SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/MZLrQh7.png",Arirang SD
 http://antm.dynu.net:14285/rtp/232.84.1.43:8238
-#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Channel SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/4zQG7KX.png",Asian Food Network SD
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Channel SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/4zQG7KX.png",AFN HD
 http://antm.dynu.net:14285/rtp/232.84.1.115:10236
 #EXTINF:-1 tvg-id="abcaustralia" tvg-name="ABC AUSTRALIA SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/ZPfwNDJ.png",ABC AUSTRALIA SD
 http://antm.dynu.net:14285/rtp/232.84.3.131:10482
