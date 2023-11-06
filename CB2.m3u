@@ -409,7 +409,7 @@ http://antm.dynu.net:14285/rtp/232.84.2.126:8076
 http://antm.dynu.net:14285/rtp/232.84.1.108:10224
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/EGjNXZA.png",Discovery SD
 http://antm.dynu.net:14285/rtp/232.84.1.47:8262
-#EXTINF:-1 tvg-id="cbeebies" tvg-name="BBC CBieBies SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/OPy0cHh.png",CBieBies
+#EXTINF:-1 tvg-id="cbeebies" tvg-name="BBC CBieBies SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/OPy0cHh.png",CBeebies
 http://antm.dynu.net:14285/rtp/232.84.3.200:11122
 #EXTINF:-1 tvg-id="dragontv" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/HABUd7n.png",Dragon TV SD
 http://antm.dynu.net:14285/rtp/232.84.3.185:11032
