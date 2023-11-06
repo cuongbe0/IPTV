@@ -27,24 +27,6 @@ http://antm.dynu.net:14285/rtp/232.84.2.202:10996
 http://antm.dynu.net:14285/rtp/232.84.3.104:10612
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/dqBM1GR.png",VTV9 HD
 http://antm.dynu.net:14285/rtp/232.84.2.35:10618
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 SD" group-title="VTV" tvg-logo="https://i.imgur.com/wmeoNvN.png",VTV1 SD
-http://antm.dynu.net:14285/rtp/232.84.1.27:8136
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 SD" group-title="VTV" tvg-logo="https://i.imgur.com/eKdp0k4.png",VTV2 SD
-http://antm.dynu.net:14285/rtp/232.84.1.39:8208
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 SD" group-title="VTV" tvg-logo="https://i.imgur.com/KDR58RR.png",VTV3 SD
-http://antm.dynu.net:14285/rtp/232.84.1.28:8142
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 SD" group-title="VTV" tvg-logo="https://i.imgur.com/G6uVWLi.png",VTV4 SD
-http://antm.dynu.net:14285/rtp/232.84.1.40:8214
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 SD" group-title="VTV" tvg-logo="https://i.imgur.com/Rzi9LxP.png",VTV5 SD
-http://antm.dynu.net:14285/rtp/232.84.1.41:8220
-#EXTINF:-1 tvg-name="VTV Cần Thơ SD" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png",VTV Cần Thơ SD
-http://antm.dynu.net:14285/rtp/232.84.1.42:8226
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 SD" group-title="VTV" tvg-logo="https://i.imgur.com/1nOMCqM.png",VTV7 SD
-http://antm.dynu.net:14285/rtp/232.84.2.201:10990
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 SD" group-title="VTV" tvg-logo="https://i.imgur.com/tjA1fU8.png",VTV8 SD
-http://antm.dynu.net:14285/rtp/232.84.1.148:8862
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 SD" group-title="VTV" tvg-logo="https://i.imgur.com/rUeimhI.png",VTV9 SD
-http://antm.dynu.net:14285/rtp/232.84.1.241:9420
 
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-name="ON Movies" group-title="VTVcab" tvg-logo="https://i.imgur.com/kovX56b.png",ON Movies
@@ -90,35 +72,6 @@ http://antm.dynu.net:14285/rtp/232.84.3.87:11530
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 HD" group-title="VTC" tvg-logo="https://i.imgur.com/3VRaf9e.png",VTC13 HD
 http://antm.dynu.net:14285/rtp/232.84.1.74:8418
 
-#EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1 SD" group-title="VTC" tvg-logo="https://i.imgur.com/uI9Ouw0.png",VTC1 SD
-http://antm.dynu.net:14285/rtp/232.84.1.30:8154
-#EXTINF:-1 tvg-id="vtc2hd" tvg-name="VTC2 SD" group-title="VTC" tvg-logo="https://i.imgur.com/roKaMTG.png",VTC2 SD
-http://antm.dynu.net:14285/rtp/232.84.1.57:8322
-#EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3 SD" group-title="VTC" tvg-logo="https://i.imgur.com/nJktZYT.png",VTC3 SD
-http://antm.dynu.net:14285/rtp/232.84.1.60:8232
-#EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4 SD" group-title="VTC" tvg-logo="https://i.imgur.com/S4DYcF4.png",VTC4 SD
-http://antm.dynu.net:14285/rtp/232.84.2.37:10630
-#EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5 SD" group-title="VTC" tvg-logo="https://i.imgur.com/8WtbEX9.png",VTC5 SD
-http://antm.dynu.net:14285/rtp/232.84.2.38:10636
-#EXTINF:-1 tvg-id="vtc6hd" tvg-name="VTC6 HD" group-title="VTC" tvg-logo="https://i.imgur.com/sRDtLeA.png",VTC6 HD
-http://antm.dynu.net:14285/rtp/232.84.3.58:11704
-#EXTINF:-1 tvg-id="vtc7hd" tvg-name="VTC7 SD - TODAYTV" group-title="VTC" tvg-logo="https://i.imgur.com/EeGAtuK.png",VTC7 SD - TODAYTV
-http://antm.dynu.net:14285/rtp/232.84.1.213:9252
-#EXTINF:-1 tvg-id="vtc8hd" tvg-name="VTC8 SD" group-title="VTC" tvg-logo="https://i.imgur.com/hdHt582.png",VTC8 SD
-http://antm.dynu.net:14285/rtp/232.84.2.39:10642
-#EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9 SD" group-title="VTC" tvg-logo="https://i.imgur.com/7tcqK9P.png",VTC9 SD
-http://antm.dynu.net:14285/rtp/232.84.1.59:8334
-#EXTINF:-1 tvg-id="vtc10hd" tvg-name="VTC10 SD" group-title="VTC" tvg-logo="https://i.imgur.com/qnZHuvb.png",VTC10 SD
-http://antm.dynu.net:14285/rtp/232.84.1.214:9258
-#EXTINF:-1 tvg-id="vtc11hd" tvg-name="VTC11 SD" group-title="VTC" tvg-logo="https://i.imgur.com/6jUpTX4.png",VTC11 SD
-http://antm.dynu.net:14285/rtp/232.84.1.61:8340
-#EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 SD" group-title="VTC" tvg-logo="https://i.imgur.com/xc2G48h.png",VTC13 SD
-http://antm.dynu.net:14285/rtp/232.84.1.62:8346
-#EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14 SD" group-title="VTC" tvg-logo="https://i.imgur.com/DeSDCrh.png",VTC14 SD
-http://antm.dynu.net:14285/rtp/232.84.1.216:9270
-#EXTINF:-1 tvg-id="vtc16hd" tvg-name="VTC16 SD" group-title="VTC" tvg-logo="https://i.imgur.com/iifV1Va.png",VTC16 SD
-http://antm.dynu.net:14285/rtp/232.84.1.215:9264
-
 #------------------------VOV------------------------#
 #EXTINF:-1 tvg-id="vovtvhd" tvg-name="VOVTV" group-title="VOV" tvg-logo="https://i.imgur.com/QjJ0Ic4.png",VOVTV
 http://antm.dynu.net:14285/rtp/232.84.1.46:8256
@@ -142,28 +95,12 @@ http://antm.dynu.net:14285/rtp/232.84.1.36:8190
 http://antm.dynu.net:14285/rtp/232.84.3.56:11716
 #EXTINF:-1 tvg-id="htvkey" tvg-name="HTV4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
 http://antm.dynu.net:14285/rtp/232.84.3.55:11722
-#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/n2PEK28.png",HTV7 SD
-http://antm.dynu.net:14285/rtp/232.84.1.21:8100
-#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/6GSN524.png",HTV9 SD
-http://antm.dynu.net:14285/rtp/232.84.1.31:8160
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/0PBzci0.png",HTV THỂ THAO SD
-http://antm.dynu.net:14285/rtp/232.84.1.24:8118
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
 http://antm.dynu.net:14285/rtp/232.84.3.88:11524
 #EXTINF:-1 tvg-id="dulichcuocsong" tvg-name="HTVC DU LỊCH VÀ CUỘC SỐNG" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",DU LỊCH VÀ CUỘC SỐNG
 http://antm.dynu.net:14285/rtp/232.84.1.221:9300
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC GIA DINH" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",GIA ĐÌNH
 http://antm.dynu.net:14285/rtp/232.84.1.170:8994
-#EXTINF:-1 tvg-id="htvcphimtruyenhd" tvg-name="HTVC SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC SD
-http://antm.dynu.net:14285/rtp/232.84.1.105:8604
-#EXTINF:-1 tvg-id="htvchd" tvg-name="HTVC HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC HD
-http://antm.dynu.net:14285/rtp/232.84.3.245:11392
-#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC PHU NU SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Zq00lJR.png",PHỤ NỮ
-http://antm.dynu.net:14285/rtp/232.84.1.127:8736
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-name="HHTVC Thuần Việt SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt SD
-http://antm.dynu.net:14285/rtp/232.84.1.22:8106
-#EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC CA NHAC SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/BM2SCQ4.png",HTVC Ca Nhạc
-http://antm.dynu.net:14285/rtp/232.84.1.126:8730
 
 #------------------------Thiết Yếu------------------------#
 #EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân TV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/20sj8kS.png",Nhân Dân TV
@@ -184,12 +121,8 @@ http://antm.dynu.net:14285/rtp/232.84.1.228:9342
 http://antm.dynu.net:14285/rtp/232.84.1.52:8292
 
 #------------------------Other------------------------#
-#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV HD" group-title="Other Channel" tvg-logo="https://i.imgur.com/pIu4OSu.png",MTV
-http://antm.dynu.net:14285/rtp/232.84.3.107:10834
 #EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/gMeGXeL.png",HiTV
 http://antm.dynu.net:14285/rtp/232.84.1.55:8310
-#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV SD" group-title="Other Channel" tvg-logo="https://i.imgur.com/pIu4OSu.png",MTV
-http://antm.dynu.net:14285/rtp/232.84.1.82:8466
 #EXTINF:-1 tvg-id="sctv8" group-title="Other Channel" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8 VITV
 http://antm.dynu.net:14285/rtp/232.84.1.32:8166
 #EXTINF:-1 tvg-id="btv9" tvg-name="BTV9 An Viên TV" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",BTV9 An Viên TV
