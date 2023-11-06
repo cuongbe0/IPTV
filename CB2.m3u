@@ -105,8 +105,6 @@ http://antm.dynu.net:14285/rtp/232.84.1.170:8994
 #------------------------Thiết Yếu------------------------#
 #EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân TV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/20sj8kS.png",Nhân Dân TV
 http://antm.dynu.net:14285/rtp/232.84.3.124:10822
-#EXTINF:-1 tvg-id="quochoi" tvg-name="QUỐC HỘI" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI
-http://antm.dynu.net:14285/rtp/232.84.1.234:10290
 #EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI HD
 http://antm.dynu.net:14285/rtp/232.84.2.181:10290
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
@@ -115,10 +113,6 @@ http://antm.dynu.net:14285/rtp/232.84.3.127:10816
 http://antm.dynu.net:14285/rtp/232.84.3.125:10434http://antm.dynu.net:14285/rtp/232.84.3.125:10434
 #EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV
 http://antm.dynu.net:14285/rtp/232.84.1.212:9246
-#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN (SD)" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN SD
-http://antm.dynu.net:14285/rtp/232.84.1.228:9342
-#EXTINF:-1 tvg-id="vnews" tvg-name="THONG TAN XA VIET NAM SD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS SD
-http://antm.dynu.net:14285/rtp/232.84.1.52:8292
 
 #------------------------Other------------------------#
 #EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/gMeGXeL.png",HiTV
