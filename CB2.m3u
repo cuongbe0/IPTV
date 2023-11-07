@@ -33,13 +33,13 @@ http://antm.dynu.net:14285/rtp/232.84.2.35:10618
 http://antm.dynu.net:14285/rtp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="ON O2TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
 http://antm.dynu.net:14285/rtp/232.84.3.74:11608
-#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="VTVcab 1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",VTVcab 1 _ Vie GIẢI TRÍ
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="VTVCab1 HD - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",VTVCab1 HD - Vie Giải Trí
 http://antm.dynu.net:14285/rtp/232.84.1.143:8832
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="VTVcab 2 - On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",VTVcab 2 _ On Phim Việt
 http://antm.dynu.net:14285/rtp/232.84.1.168:8982
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="ON BiBi" group-title="VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
 http://antm.dynu.net:14285/rtp/232.84.3.217:11224
-#EXTINF:-1 tvg-id="vtvcab9hd" tvg-name="ON InfoTV" group-title="VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON InfoTV
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-name="ON Info TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON Info TV
 http://antm.dynu.net:14285/rtp/232.84.2.191:10930
 #EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
 http://antm.dynu.net:14285/rtp/232.84.1.205:9204
@@ -47,9 +47,9 @@ http://antm.dynu.net:14285/rtp/232.84.1.205:9204
 http://antm.dynu.net:14285/rtp/232.84.1.244:9438
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-name="ON Music" group-title="VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
 http://antm.dynu.net:14285/rtp/232.84.2.192:10936
-#EXTINF:-1 tvg-id="vtvcab17hd" tvg-name="ON TrendingTv" group-title="VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON TrendingTv
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-name="ON Trending" group-title="VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON Trending
 http://antm.dynu.net:14285/rtp/232.84.1.217:9276
-#EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="VTVcab 19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/5aKAjKw.png",VTVcab 19 _ Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="VTVCab19 HD - Vie DRAMAS" group-title="VTVcab" tvg-logo="https://i.imgur.com/5aKAjKw.png",VTVCab19 HD - Vie DRAMAS
 http://antm.dynu.net:14285/rtp/232.84.3.218:11230
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-name="ON VFamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/1OOW7rU.png",ON VFamily
 http://antm.dynu.net:14285/rtp/232.84.1.245:10344
