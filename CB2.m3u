@@ -123,9 +123,9 @@ http://antm.dynu.net:14285/rtp/232.84.1.32:8166
 http://antm.dynu.net:14285/rtp/232.84.3.199:11116
 
 #------------------------Địa phương (HD)------------------------#
-#EXTINF:-1 tvg-id="quangninh1" tvg-name="TH QUANG NINH 1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ndax4Qk.png",Quảng Ninh 1
+#EXTINF:-1 tvg-id="quangninh1" tvg-name="Quảng Ninh 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ndax4Qk.png",Quảng Ninh 1
 http://antm.dynu.net:14285/rtp/232.84.1.248:10978
-#EXTINF:-1 tvg-id="quangninh3" tvg-name="TH QUANG NINH 3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YfdCLVn.png",Quảng Ninh 3
+#EXTINF:-1 tvg-id="quangninh3" tvg-name="Quảng Ninh 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YfdCLVn.png",Quảng Ninh 3
 http://antm.dynu.net:14285/rtp/232.84.1.249:10984
 #EXTINF:-1 tvg-id="thainguyen" tvg-name="TH THAI NGUYEN 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vz36bdU.png",Thái Nguyên
 http://antm.dynu.net:14285/rtp/232.84.3.146:10774
