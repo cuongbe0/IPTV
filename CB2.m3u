@@ -293,7 +293,7 @@ http://antm.dynu.net:14285/rtp/232.84.3.150:10906
 http://antm.dynu.net:14285/rtp/232.84.2.102:9114
 #EXTINF:-1 tvg-id="haugiang" tvg-name="Hậu Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/3ls9f26.png",Hậu Giang
 http://antm.dynu.net:14285/rtp/232.84.2.112:8940
-#EXTINF:-1 tvg-id="kiengiang" tvg-name="TKiên Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/oecHPOt.png",Kiên Giang
+#EXTINF:-1 tvg-id="kiengiang" tvg-name="Kiên Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/oecHPOt.png",Kiên Giang
 http://antm.dynu.net:14285/rtp/232.84.2.113:8964
 #EXTINF:-1 tvg-id="soctrang" tvg-name="Sóc Trăng" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/R6190Zs.png",Sóc Trăng
 http://antm.dynu.net:14285/rtp/232.84.2.103:9072
