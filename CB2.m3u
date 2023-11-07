@@ -35,7 +35,7 @@ http://antm.dynu.net:14285/rtp/232.84.2.190:10924
 http://antm.dynu.net:14285/rtp/232.84.3.74:11608
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="VTVCab1 HD - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",VTVCab1 HD - Vie Giải Trí
 http://antm.dynu.net:14285/rtp/232.84.1.143:8832
-#EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="VTVcab 2 - On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",VTVcab 2 _ On Phim Việt
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="ON Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
 http://antm.dynu.net:14285/rtp/232.84.1.168:8982
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="ON BiBi" group-title="VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
 http://antm.dynu.net:14285/rtp/232.84.3.217:11224
@@ -43,7 +43,7 @@ http://antm.dynu.net:14285/rtp/232.84.3.217:11224
 http://antm.dynu.net:14285/rtp/232.84.2.191:10930
 #EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
 http://antm.dynu.net:14285/rtp/232.84.1.205:9204
-#EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="VTVcab 12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/8ZLy5E9.png",VTVcab 12 _ Style TV
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="On Style" group-title="VTVcab" tvg-logo="https://i.imgur.com/8ZLy5E9.png",On Style
 http://antm.dynu.net:14285/rtp/232.84.1.244:9438
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-name="ON Music" group-title="VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
 http://antm.dynu.net:14285/rtp/232.84.2.192:10936
@@ -77,7 +77,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.74:8418
 http://antm.dynu.net:14285/rtp/232.84.1.46:8256
 
 #------------------------HTV/HTVC------------------------#
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel HD
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 HD
 http://antm.dynu.net:14285/rtp/232.84.2.182:9306
 #EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNWzP6P.png",HTV7 HD
 http://antm.dynu.net:14285/rtp/232.84.1.223:9312
@@ -89,8 +89,6 @@ http://antm.dynu.net:14285/rtp/232.84.3.118:9594
 http://antm.dynu.net:14285/rtp/232.84.2.134:9600
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 http://antm.dynu.net:14285/rtp/232.84.3.57:11710
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel SD
-http://antm.dynu.net:14285/rtp/232.84.1.36:8190
 #EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
 http://antm.dynu.net:14285/rtp/232.84.3.56:11716
 #EXTINF:-1 tvg-id="htvkey" tvg-name="HTV Key" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
