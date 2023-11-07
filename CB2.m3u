@@ -115,7 +115,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.212:9246
 #------------------------Other------------------------#
 #EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/gMeGXeL.png",HiTV
 http://antm.dynu.net:14285/rtp/232.84.1.55:8310
-#EXTINF:-1 tvg-id="sctv8" group-title="Other Channel" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8 VITV
+#EXTINF:-1 tvg-id="sctv8hd" tvg-name="SCTV8" group-title="Other Channel" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8
 http://antm.dynu.net:14285/rtp/232.84.1.32:8166
 #EXTINF:-1 tvg-id="anvienhd" tvg-name="An Viên HD" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",An Viên HD
 http://antm.dynu.net:14285/rtp/232.84.3.199:11116
@@ -187,8 +187,6 @@ http://antm.dynu.net:14285/rtp/232.84.2.107:8646
 http://antm.dynu.net:14285/rtp/232.84.2.91:9138
 #EXTINF:-1 tvg-id="thainguyen" tvg-name="Thái Nguyên" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/vz36bdU.png",Thái Nguyên
 http://antm.dynu.net:14285/rtp/232.84.2.87:9096
-#EXTINF:-1 tvg-id="thainguyen2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/g2ULWQV.png",Thái Nguyên
-http://antm.dynu.net:14285/rtp/232.84.3.123:9168
 #EXTINF:-1 tvg-id="phutho" tvg-name="Phú Thọ" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6USaqW8.png",Phú Thọ
 http://antm.dynu.net:14285/rtp/232.84.2.95:9030
 #EXTINF:-1 tvg-id="bacgiang" tvg-name="Bắc Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/dW4nHbw.png",Bắc Giang
@@ -317,7 +315,7 @@ http://antm.dynu.net:14285/rtp/232.84.3.121:10660
 http://antm.dynu.net:14285/rtp/232.84.3.157:10696
 #EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network HD
 http://antm.dynu.net:14285/rtp/232.84.2.144:10684
-#EXTINF:-1 tvg-id="musicboxhd" tvg-name="MusicBox HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",MusicBox HD
+#EXTINF:-1 tvg-id="musicboxhd" tvg-name="Music Box HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",Music Box HD
 http://antm.dynu.net:14285/rtp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia HD
 http://antm.dynu.net:14285/rtp/232.84.3.155:10540
