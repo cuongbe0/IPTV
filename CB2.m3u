@@ -315,7 +315,7 @@ http://antm.dynu.net:14285/rtp/232.84.3.121:10660
 http://antm.dynu.net:14285/rtp/232.84.3.157:10696
 #EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network HD
 http://antm.dynu.net:14285/rtp/232.84.2.144:10684
-#EXTINF:-1 tvg-id="musicboxhd" tvg-name="Music Box HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",Music Box HD
+#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",Music Box HD
 http://antm.dynu.net:14285/rtp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia HD
 http://antm.dynu.net:14285/rtp/232.84.3.155:10540
@@ -393,8 +393,6 @@ http://antm.dynu.net:14285/rtp/232.84.3.180:11002
 http://antm.dynu.net:14285/rtp/232.84.3.182:11014
 #EXTINF:-1 tvg-id="cctv15" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/rNIrAq3.png",CCTV15 SD
 http://antm.dynu.net:14285/rtp/232.84.3.181:11008
-#EXTINF:-1 tvg-id="musicbox" tvg-name="Music Box SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",Music Box SD
-http://antm.dynu.net:14285/rtp/232.84.3.144:9588
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-name="CNA SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/MztDCW5.png",CNA SD
 http://antm.dynu.net:14285/rtp/232.84.1.5:8004
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/vp3Tb5O.png",CNBC SD
