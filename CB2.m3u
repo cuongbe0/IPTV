@@ -481,6 +481,6 @@ http://antm.dynu.net:14285/rtp/232.84.1.238:10296
 http://antm.dynu.net:14285/rtp/232.84.2.56:10546
 
 #------------------------Mua Sắm------------------------#
-#EXTINF:-1 tvg-name="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/TSb7ghe.png",VTVCab13 - VTV Hyundai Homeshopping
+#EXTINF:-1 tvg-name="vtvcab13hd" tvg-name="VTVCab13 - VTV Hyundai Homeshopping" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/TSb7ghe.png",VTVCab13 - VTV Hyundai Homeshopping
 http://antm.dynu.net:14285/rtp/232.84.1.142:10386
 
