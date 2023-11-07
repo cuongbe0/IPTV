@@ -91,15 +91,15 @@ http://antm.dynu.net:14285/rtp/232.84.2.134:9600
 http://antm.dynu.net:14285/rtp/232.84.3.57:11710
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel SD
 http://antm.dynu.net:14285/rtp/232.84.1.36:8190
-#EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
 http://antm.dynu.net:14285/rtp/232.84.3.56:11716
-#EXTINF:-1 tvg-id="htvkey" tvg-name="HTV4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
+#EXTINF:-1 tvg-id="htvkey" tvg-name="HTV Key" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
 http://antm.dynu.net:14285/rtp/232.84.3.55:11722
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
 http://antm.dynu.net:14285/rtp/232.84.3.88:11524
-#EXTINF:-1 tvg-id="dulichcuocsong" tvg-name="HTVC DU LỊCH VÀ CUỘC SỐNG" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",DU LỊCH VÀ CUỘC SỐNG
+#EXTINF:-1 tvg-id="dulichcuocsong" tvg-name="HTVC Du Lịch HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",HTVC Du Lịch HD
 http://antm.dynu.net:14285/rtp/232.84.1.221:9300
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC GIA DINH" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",GIA ĐÌNH
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",HTVC Gia Đình HD
 http://antm.dynu.net:14285/rtp/232.84.1.170:8994
 
 #------------------------Thiết Yếu------------------------#
@@ -109,7 +109,7 @@ http://antm.dynu.net:14285/rtp/232.84.3.124:10822
 http://antm.dynu.net:14285/rtp/232.84.2.181:10290
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
 http://antm.dynu.net:14285/rtp/232.84.3.127:10816
-#EXTINF:-1 tvg-id="vnews" tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS HD
+#EXTINF:-1 tvg-id="vnews" tvg-name="VNEWS HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS HD
 http://antm.dynu.net:14285/rtp/232.84.3.125:10434http://antm.dynu.net:14285/rtp/232.84.3.125:10434
 #EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV
 http://antm.dynu.net:14285/rtp/232.84.1.212:9246
