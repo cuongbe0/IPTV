@@ -103,13 +103,13 @@ http://antm.dynu.net:14285/rtp/232.84.1.170:8994
 #------------------------Thiết Yếu------------------------#
 #EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân TV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/20sj8kS.png",Nhân Dân TV
 http://antm.dynu.net:14285/rtp/232.84.3.124:10822
-#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI
+#EXTINF:-1 tvg-id="quochoi" tvg-name="QUỐC HỘI" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI
 http://antm.dynu.net:14285/rtp/232.84.2.181:10290
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
 http://antm.dynu.net:14285/rtp/232.84.3.127:10816
 #EXTINF:-1 tvg-id="vnews" tvg-name="VNEWS HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS HD
 http://antm.dynu.net:14285/rtp/232.84.3.125:10434http://antm.dynu.net:14285/rtp/232.84.3.125:10434
-#EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV
+#EXTINF:-1 tvg-id="antvhd"tvg-name="ANTV HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV HD
 http://antm.dynu.net:14285/rtp/232.84.1.212:9246
 
 #------------------------Other------------------------#
@@ -117,7 +117,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.212:9246
 http://antm.dynu.net:14285/rtp/232.84.1.55:8310
 #EXTINF:-1 tvg-id="sctv8" group-title="Other Channel" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8 VITV
 http://antm.dynu.net:14285/rtp/232.84.1.32:8166
-#EXTINF:-1 tvg-id="btv9" tvg-name="BTV9 An Viên TV" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",An Viên HD
+#EXTINF:-1 tvg-id="anvienhd" tvg-name="An Viên HD" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",An Viên HD
 http://antm.dynu.net:14285/rtp/232.84.3.199:11116
 
 #------------------------Địa phương (HD)------------------------#
@@ -271,7 +271,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.152:8886
 http://antm.dynu.net:14285/rtp/232.84.1.153:8892
 #EXTINF:-1 tvg-id="tayninh" tvg-name="Tây Ninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qUvfTaK.png",Tây Ninh
 http://antm.dynu.net:14285/rtp/232.84.2.97:9084
-#EXTINF:-1 tvg-id="bariavungtau" tvg-name="Vũng Tàu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/KCQrFSO.png",Vũng Tàu
+#EXTINF:-1 tvg-id="vungtau" tvg-name="Vũng Tàu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/KCQrFSO.png",Vũng Tàu
 http://antm.dynu.net:14285/rtp/232.84.2.73:8748
 #EXTINF:-1 tvg-id="longan" tvg-name="Long An" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/SulnKWO.png",Long An
 http://antm.dynu.net:14285/rtp/232.84.1.171:9000
@@ -485,6 +485,6 @@ http://antm.dynu.net:14285/rtp/232.84.1.238:10296
 http://antm.dynu.net:14285/rtp/232.84.2.56:10546
 
 #------------------------Mua Sắm------------------------#
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/TSb7ghe.png",VTVcab13_VTV Hyundai
+#EXTINF:-1 tvg-name="vtvcab13hd" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/TSb7ghe.png",VTVCab13 - VTV Hyundai Homeshopping
 http://antm.dynu.net:14285/rtp/232.84.1.142:10386
 
